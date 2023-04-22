@@ -4,21 +4,21 @@ I am a self-taught learner passionate about technology, constantly striving to l
 I enjoy exploring new technologies and languages, and I'm always looking for opportunities to learn and grow as a Developer.
 
 🚀 My Skills
-HTML
-CSS
-JavaScript
-SASS
+- HTML
+- CSS
+- JavaScript
+- SASS
 
 🌱 Learning
 I am always looking to learn and expand my knowledge as a Developer. Currently, I am studying:
 
-Git
-Node.js
-Express.js
-MongoDB
-API RESTFul
-React.js
-Next.js
+- Git
+- Node.js
+- Express.js
+- MongoDB
+- API RESTFul
+- React.js
+- Next.js
 
 📫 Contact Me
 If you want to get in touch with me, please send me a message. I am open to collaboration and new opportunities. 
