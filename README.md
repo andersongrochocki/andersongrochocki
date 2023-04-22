@@ -1,5 +1,5 @@
 Hi there 👋
-My name is [Anderson Grochocki] and this is my Github profile! 
+My name is Anderson Grochocki and this is my Github profile! 
 I am a self-taught learner passionate about technology, constantly striving to learn and improve my skills. I am currently a beginner in the world of programming, studying and working towards becoming a Full Stack Developer.  
 I enjoy exploring new technologies and languages, and I'm always looking for opportunities to learn and grow as a Developer.
 
