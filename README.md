@@ -9,7 +9,7 @@ I enjoy exploring new technologies and languages, and I'm always looking for opp
 - JavaScript
 - SASS
 
-🌱 Learning 
+🌱 Learning: 
 I am always looking to learn and expand my knowledge as a Developer. Currently, I am studying:
 
 - Git
@@ -20,7 +20,7 @@ I am always looking to learn and expand my knowledge as a Developer. Currently, 
 - React.js
 - Next.js
 
-📫 Contact Me
+📫 Contact Me:
 If you want to get in touch with me, please send me a message. I am open to collaboration and new opportunities. 
 Thank you for checking out my profile!
 
