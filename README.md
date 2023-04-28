@@ -9,7 +9,7 @@ I enjoy exploring new technologies and languages, and I'm always looking for opp
 - JavaScript
 - SASS
 
-🌱 Learning
+🌱 Learning 
 I am always looking to learn and expand my knowledge as a Developer. Currently, I am studying:
 
 - Git
